@@ -1,0 +1,18 @@
+{
+  "name": "advance_based-communication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/ws": "^8.5.12",
+    "http": "^0.0.1-security",
+    "typescript": "^5.5.4",
+    "ws": "^8.18.0"
+  }
+}
